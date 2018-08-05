@@ -1,6 +1,10 @@
 Cookiecutter Django
 =======================
 
+.. image:: https://badges.production.guardrails.io/shtakai/cookiecutter-django.svg
+   :alt: GuardRails badge
+   :target: https://www.guardrails.io
+
 .. image:: https://requires.io/github/pydanny/cookiecutter-django/requirements.svg?branch=master
      :target: https://requires.io/github/pydanny/cookiecutter-django/requirements/?branch=master
      :alt: Requirements Status
